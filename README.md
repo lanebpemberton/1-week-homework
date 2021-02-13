@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 01 HTML CSS Git: Code Refactor
 
 ## Your Task
@@ -120,3 +121,7 @@ You are required to submit the following for review:
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+=======
+# 1-week-homework
+Homework for week 1 of GT bootcamp
+>>>>>>> 036775a339d3c3f2f9644b78360b25ccab8a1640
